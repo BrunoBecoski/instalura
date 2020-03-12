@@ -1,0 +1,60 @@
+/*
+
+=====Cor Heard=====
+
+background: #383838;
+ 
+h1
+color: #FFFFFF;
+
+=====Cor Sobre===== 
+ 
+h1
+color: #FFFFFF;
+
+p
+color: #F8F8F8;
+
+botton / border 
+color: #F8F8F8;
+
+=====Cor Equipe===== 
+
+background-color: #010A2B; 
+
+h1
+color: #FFFFFF;
+p
+color: #6481E4; 
+
+icon 
+background-color: #6481E4;
+
+a
+color: #FFFFFF;
+
+=====Cor Novidades===== 
+  
+background-color: #010A2B; 
+
+border: #6481E4;
+
+h1
+color: #FFFFFF;
+
+p
+color: #6481E4; 
+
+=====Footer=====
+
+background-color: #383838;  
+
+h1
+color: #FFFFFFF;
+
+*/
+
+html {
+
+    font-family: 'Open Sans', sans-serif;
+}

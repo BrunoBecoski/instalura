@@ -1,0 +1,45 @@
+.cabecalho {
+
+  display: flex;
+  align-content: center;
+  background: #383838;
+  height: 5rem;
+  justify-content: space-around;
+
+}
+
+.cabecalho-titulo {
+
+  background: url(../imagens/logo-instalura.svg) no-repeat ;
+  height: 3rem;
+  font-size: 2rem; 
+  font-weight: bold;
+  padding-left: 5rem;
+  padding-top: 20px;
+  color: #FFFFFF;
+
+
+}
+
+.cabecalho-input {
+
+  border: 1px solid purple;
+
+  font-size: 1.5rem;
+  height: 1.5rem;
+  padding: 0.5rem ;
+  margin-top: 1rem;
+}
+
+@media(max-width: 500px) {
+
+  .cabecalho-titulo {
+      height: 3rem;
+  }
+
+  .cabecalho-input {
+    font-size: 1rem;
+    width: 10rem;
+  }
+}
+ 

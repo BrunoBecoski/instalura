@@ -1,0 +1,36 @@
+.rodape{
+
+    background-color: #383838;  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.rodape-titulo {
+
+    background: url(../imagens/logo-instalura.svg) no-repeat ;
+    height: 3rem;
+    font-size: 2rem; 
+    font-weight: bold;
+    padding-left: 4rem;
+    padding-top: 10px;
+    color: #FFFFFF;
+    margin-left: 15%;
+}
+
+
+.rodape-icones img {
+
+    margin: 15px;
+}
+
+@media(max-width: 500px) {
+
+    .rodape-titulo {
+
+        margin-left: 1%;
+
+
+    }
+}
